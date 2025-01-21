@@ -26,19 +26,19 @@
 
 ## Official Resources
 
-- [Cursor Website](https://cursor.sh)
-- [Documentation](https://cursor.sh/docs)
+- [Cursor Website](https://cursor.com)
+- [Documentation](https://cursor.com/docs)
 - [GitHub Repository](https://github.com/getcursor/cursor)
-- [Release Notes](https://cursor.sh/releases)
-- [Blog](https://cursor.sh/blog)
+- [Release Notes](https://www.cursor.com/changelog)
+- [Blog](https://www.cursor.com/blog)
 
 ## Getting Started
 
-- [Installation Guide](https://cursor.sh/docs/getting-started)
-- [Quick Start Tutorial](https://cursor.sh/docs/tutorial)
-- [Basic Concepts](https://cursor.sh/docs/concepts)
-- [Key Features](https://cursor.sh/docs/features)
-- [Command Palette](https://cursor.sh/docs/commands)
+- [Installation Guide](https://docs.cursor.com/get-started/migrate-from-vscode)
+- [Quick Start Tutorial](https://www.youtube.com/watch?v=y9mcrWktWd8)
+- [Basic Concepts](https://docs.cursor.com/tab/overview)
+- [Key Features](https://www.cursor.com/features)
+- [Command Palette](https://docs.cursor.com/cmdk/overview)
 
 ## Tutorials
 
